@@ -18,3 +18,7 @@ body {
 #letter-footer {
     margin-top: 90px;
 }
+
+span {
+    text-decoration: underline;
+}
