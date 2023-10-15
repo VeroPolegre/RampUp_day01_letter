@@ -4,7 +4,7 @@ In this exercise, the objective was mark up a letter with the HTML tags learned.
 
 ### Done with
 
-HTML
+| HTML | CSS |
 
 ### Preview
 
